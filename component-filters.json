@@ -37,6 +37,26 @@
       ]
     },
     {
+    "id": "form",
+    "components": [
+      "plain-text",
+      "text-input",
+      "number-input",
+      "date-input",
+      "panel",
+      "checkbox",
+      "drop-down",
+      "radio-group",
+      "email",
+      "form-fragment",
+      "form-button",
+      "form-image",
+      "form-submit-button",
+      "form-reset-button",
+      "file-input"
+    ]
+  },
+    {
       "id": "activity-details",
       "components": [
         "activity-detail"
